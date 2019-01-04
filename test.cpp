@@ -10,6 +10,7 @@ int main(){
 	cout <<"test checkout" << endl;
 	cout << "推送最新修改" << endl;
 	cout << "在dev分支下修改" << endl;
+	cout << "在分支feature1下修改" << endl;
 	return 0;
 
 }
